@@ -1,6 +1,6 @@
 {
   "author": "John Firebaugh <john.firebaugh@gmail.com>",
-  "name": "chai-jquery",
+  "name": "message-chai-jquery",
   "description": "jQuery assertions for the Chai assertion library",
   "keywords": [ "chai", "chai-plugin", "vendor", "browser-only", "dom", "test", "assertion", "assert", "testing", "jQuery" ],
   "version": "2.1.0",
